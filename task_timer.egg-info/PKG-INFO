@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: task-timer
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.1.8
+
+# Task Timer
+## Description: This project is a task-timer CLI tool written in Python. The task-timer is able to do the following:
+##     * Start timing a new task
+##     * Stop a current running task
+##     * Print out a summary of current time-sheet
+##     * See current running task(s)
+
